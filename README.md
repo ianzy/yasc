@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # Yasc
 
-TODO: Write a gem description
+Yet Another Spelling Checker
 
 ## Installation
 
@@ -19,7 +18,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    require 'yasc'
+    Yasc.correct "test"
 
 ## Contributing
 
@@ -28,9 +28,4 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Added some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
-=======
-yasc
-====
 
-Yet Another Spelling Checker
->>>>>>> a0fa10c198e588ef0a6ceb3b5266662b29860d19
